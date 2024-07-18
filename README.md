@@ -46,7 +46,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akshat-Soni02/Akshat-Soni02/output/github-contribution-grid-snake.svg" />
-  ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat-Soni02&show_icons=true&theme=radical)
+  [![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat-Soni02)](https://github.com/Akshat-Soni02/github-readme-stats)
 
   
   <br/><br/><br/>
