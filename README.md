@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A Social Media Project**
+ 🔭 I’m currently working on **A Borwser based word game**
  
  🌱 I’m currently learning **SpringBoot, WebSocket**
 
-💬 Ask me about **SpringBoot, React, SpringSecurity... or anything [here](https://github.com/Akshat-Soni02/Akshat-Soni02/issues)**
+💬 Ask me about **React-native, SpringBoot... or anything [here](https://github.com/Akshat-Soni02/Akshat-Soni02/issues)**
 
  </div>
  
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,r,svelte,react-native" />
     <img src="https://skillicons.dev/icons?i=springboot,nodejs,javascript,typescript,express,mongodb,c,java,mysql" /><br>
 </div>
 
