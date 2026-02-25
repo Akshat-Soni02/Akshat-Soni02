@@ -4,28 +4,28 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshat+Soni!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Passionate Engineer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **A Borwser based word game**
+ 🔭 I’m currently working on **A Journaling App**
  
- 🌱 I’m currently learning **SpringBoot, WebSocket**
+ 🌱 I’m currently learning **ETL**
 
-💬 Ask me about **React-native, SpringBoot... or anything [here](https://github.com/Akshat-Soni02/Akshat-Soni02/issues)**
+💬 Ask me about **Agentic AI, GCP... or anything [here](https://github.com/Akshat-Soni02/Akshat-Soni02/issues)**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:akshatsonibhl99@gmail.com">
+  <a href="mailto:the.akshhh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/-akshat-soni/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Akshat-Soni02" target="_blank">
+  <a href="https://portfolio-bay-one-75.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
